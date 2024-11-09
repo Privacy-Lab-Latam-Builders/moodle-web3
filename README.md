@@ -26,7 +26,7 @@ Moodle Web3 is a ready-to-deploy learning management system (LMS) that seamlessl
 **Name:** Alex Padilla (@padimaster)  
 **GitHub:** [padimaster](https://github.com/padimaster)  
 **Discord:** padimasterec  
-**Role:** Project Lead / Fullstack Developer  
+**Role:** Fullstack Developer  
 **Contributions:**
 - Developed the API Middleware to connect Moodle with Push Protocol for event-based notifications (e.g., user enrollments, course completions).
 - Created Smart Contract Factory to issue NFT certifications directly to students' Ethereum wallets.
@@ -47,6 +47,23 @@ Moodle Web3 is a ready-to-deploy learning management system (LMS) that seamlessl
 **Role:** Developer  
 **Contributions:**
 - Integrated Moodle with MetaMask for secure Web3 Login and user creation with wallet connections in Moodle’s database.
+
+**Name:**  Nathalia Barreiros
+**GitHub:** NathaliaBarreiros  
+**Discord:** nathbarreiros   
+**Role:** Developer - Instructor
+
+**Name:** Daniel Arroyo  
+**GitHub:**  daniel0ar
+**Discord:** daniel0ar 
+**Devfolio Username:** 
+**Role:** Smart Contract and FE developer 
+
+**Name:** Lucila Pastore   
+**GitHub:** lucilapastore
+**Discord:** lucilajuliana 
+**Devfolio Username:** lucilajuliana
+**Role:** Technical PM  
 
 ## 🛠 Technical Approach
 ### Components
@@ -87,7 +104,6 @@ Moodle Web3 leverages blockchain technology to enhance educational accessibility
 By integrating web3 elements like wallet logins, NFT certifications, and decentralized notifications, Moodle Web3 empowers students and educators to explore blockchain technology in a practical setting, promoting understanding and widespread adoption.
 
 ## 🏆 Sponsors
-These organizations support the Moodle Web3 project:
 - Push Protocol ✅
 - PSE ✅
 
@@ -104,8 +120,7 @@ These organizations support the Moodle Web3 project:
 - **Notable Code Snippets:** Share examples to showcase key insights for building decentralized applications in educational contexts.
 
 ## 🔗 Project Links
-
-Provide links to:
+- [ZKLP Final Submission](https://www.canva.com/design/DAGVyfW9XEE/Cn8ak01eYwPkuH-CK6YZVA/edit?utm_content=DAGVyfW9XEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Moodle Web3 Repository](https://github.com/Privacy-Lab-Latam-Builders/moodle-web3)
 - [Source Code - Custom Moodle](https://github.com/Privacy-Lab-Latam-Builders/moodle)
 - [Source Code - Certifications Smart Contract](https://github.com/padimaster/certifications-smart-contract)
@@ -116,4 +131,4 @@ Provide links to:
 ---
 
 ## 🎥 Video Demo
-- [Project Link](https://drive.google.com/file/d/16QDBZkYUcWrg9GUskHmjDM-x9thgpFey/view?usp=sharing)
+- [Project Link](https://drive.google.com/file/d/1gAhVLpTACJlL_sYz9cHEVLpWEtlVS4PJ/view?usp=sharing)
