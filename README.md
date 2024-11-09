@@ -78,6 +78,11 @@ The ZK Developer Program is an online bootcamp aiming to train Latin American de
 
 ## 🗺 High-Level Outline
 
+### ZK Developer Program Components
+- Program Content: Covers ZKPs, focusing on ZK-SNARKs and ZK-STARKs using Circom and Halo2.
+- Community Contributions: “Good First Issues” and documentation projects for PSE projects.
+- Mentor-Led Structure: Open to the LATAM region with progressive layers, personalized office hours, and access to PSE repositories.
+
 ### Moodle Components
 - Custom Moodle LMS: Manages courses, students, and data within a decentralized framework.
 - Moodle Database: Stores user, course, and event information, with modifications to support web3 functionalities.
@@ -104,12 +109,7 @@ Moodle Web3 leverages blockchain technology to enhance educational accessibility
 
 ## 🌟 Transforming Education with Web3
 By integrating web3 elements like wallet logins, NFT certifications, and decentralized notifications, Moodle Web3 empowers students and educators to explore blockchain technology in a practical setting, promoting understanding and widespread adoption.
-
-### ZK Developer Program Components
-- Program Content: Covers ZKPs, focusing on ZK-SNARKs and ZK-STARKs using Circom and Halo2.
-- Community Contributions: “Good First Issues” and documentation projects for PSE projects.
-- Mentor-Led Structure: Open to the LATAM region with progressive layers, personalized office hours, and access to PSE repositories.
-  
+ 
 ## 🏆 Sponsors
 - Push Protocol ✅
 - PSE ✅
