@@ -1,8 +1,11 @@
-# Moodle Web3
-Moodle Web3 is a ready-to-deploy learning management system (LMS) that seamlessly combines Moodle, one of the world’s most popular LMS platforms, with innovative web3 tools. This integration allows users to experience decentralized applications, manage digital assets securely, and stay informed through real-time notifications. Key features include an Ethereum wallet, enabling users to receive certifications as NFTs, POAPs (Proof of Attendance Protocol tokens), and other digital assets. Through Push Protocol notifications, Moodle Web3 enhances learning, bridging traditional education with the decentralized web to prepare users for the next generation of the internet.
+# Moodle Web3 + ZK Developer Program
+
+Moodle Web3 integrates the popular Moodle LMS with Web3 tools, creating a decentralized educational platform that enables secure digital asset management, NFT certifications, and blockchain notifications. This system brings education into the decentralized era, fostering blockchain adoption through interactive and real-world educational applications.
+
+The ZK Developer Program is an online bootcamp aiming to train Latin American developers in Zero-Knowledge (ZK) technologies, expanding the region’s contributions to open-source projects within the cryptography space. This program builds upon insights from the LATAM PSE Core Program to deliver structured learning and practical development in ZK technologies.
 
 ## 📋 Table of Contents
-- [Moodle Web3](#moodle-web3)
+- [Moodle Web3 + ZK Developer Program](#moodle-web3)
   - [📋 Table of Contents](#-table-of-contents)
   - [👥 Team Information](#-team-information)
     - [Project Members](#project-members)
@@ -74,7 +77,6 @@ Moodle Web3 is a ready-to-deploy learning management system (LMS) that seamlessl
 - Machine Learning (ML): ❌
 
 ## 🗺 High-Level Outline
-Moodle Web3 combines Moodle LMS functionalities with blockchain technology, delivering a user-friendly, decentralized educational platform. It integrates Ethereum wallets and Push Protocol to promote blockchain adoption through interactive educational use cases.
 
 ### Moodle Components
 - Custom Moodle LMS: Manages courses, students, and data within a decentralized framework.
@@ -103,6 +105,11 @@ Moodle Web3 leverages blockchain technology to enhance educational accessibility
 ## 🌟 Transforming Education with Web3
 By integrating web3 elements like wallet logins, NFT certifications, and decentralized notifications, Moodle Web3 empowers students and educators to explore blockchain technology in a practical setting, promoting understanding and widespread adoption.
 
+### ZK Developer Program Components
+- Program Content: Covers ZKPs, focusing on ZK-SNARKs and ZK-STARKs using Circom and Halo2.
+- Community Contributions: “Good First Issues” and documentation projects for PSE projects.
+- Mentor-Led Structure: Open to the LATAM region with progressive layers, personalized office hours, and access to PSE repositories.
+  
 ## 🏆 Sponsors
 - Push Protocol ✅
 - PSE ✅
