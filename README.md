@@ -23,47 +23,47 @@ Moodle Web3 and the ZK Developer Program bring together the best of traditional 
 
 ## 👥 Team Information
 ### Project Members
-**Name:** Alex Padilla (@padimaster)  
-**GitHub:** [padimaster](https://github.com/padimaster)  
-**Discord:** padimasterec  
-**Role:** Fullstack Developer  
-**Contributions:**
-- Developed the API Middleware to connect Moodle with Push Protocol for event-based notifications (e.g., user enrollments, course completions).
-- Created Smart Contract Factory to issue NFT certifications directly to students' Ethereum wallets.
-- Integrated Push Protocol with automated group creation and real-time notifications per course.
-- Configured a scalable Docker-based server for deployment.
+- **Name:** Alex Padilla (@padimaster)  
+- **GitHub:** [padimaster](https://github.com/padimaster)  
+- **Discord:** padimasterec  
+- **Role:** Fullstack Developer  
+- **Contributions:**
+  - Developed the API Middleware to connect Moodle with Push Protocol for event-based notifications (e.g., user enrollments, course completions).
+  - Created Smart Contract Factory to issue NFT certifications directly to students' Ethereum wallets.
+  - Integrated Push Protocol with automated group creation and real-time notifications per course.
+  - Configured a scalable Docker-based server for deployment.
 
-**Name:** Paul Rodas  
-**GitHub:** [0xarcano](https://github.com/0xarcano)  
-**Discord:** 0xarcano  
-**Role:** Senior Developer / DevOps  
-**Contributions:**
-- Developed a Moodle PHP plugin for Push Protocol, enabling event-driven notifications for actions like course enrollments, completions, and quiz submissions.
-- Set up Docker configurations for streamlined Moodle deployment.
+- **Name:** Paul Rodas  
+- **GitHub:** [0xarcano](https://github.com/0xarcano)  
+- **Discord:** 0xarcano  
+- **Role:** Senior Developer / DevOps  
+- **Contributions:**
+  - Developed a Moodle PHP plugin for Push Protocol, enabling event-driven notifications for actions like course enrollments, completions, and quiz submissions.
+  - Set up Docker configurations for streamlined Moodle deployment.
 
-**Name:** Carlos Jimenez  
-**GitHub:** [cijimenez](https://github.com/cijimenez)  
-**Discord:** carlos_israelj  
-**Role:** Developer  
-**Contributions:**
-- Integrated Moodle with MetaMask for secure Web3 Login and user creation with wallet connections in Moodle’s database.
+- **Name:** Carlos Jimenez  
+- **GitHub:** [cijimenez](https://github.com/cijimenez)  
+- **Discord:** carlos_israelj  
+- **Role:** Developer  
+- **Contributions:**
+  - Integrated Moodle with MetaMask for secure Web3 Login and user creation with wallet connections in Moodle’s database.
 
-**Name:**  Nathalia Barreiros
-**GitHub:** NathaliaBarreiros  
-**Discord:** nathbarreiros   
-**Role:** Developer - Instructor
+- **Name:**  Nathalia Barreiros
+- **GitHub:** NathaliaBarreiros  
+- **Discord:** nathbarreiros   
+- **Role:** Developer - Instructor
 
-**Name:** Daniel Arroyo  
-**GitHub:**  daniel0ar
-**Discord:** daniel0ar 
-**Devfolio Username:** 
-**Role:** Smart Contract and FE developer 
+- **Name:** Daniel Arroyo  
+- **GitHub:**  daniel0ar
+- **Discord:** daniel0ar 
+- **Devfolio Username:** 
+- **Role:** Smart Contract and FE developer 
 
-**Name:** Lucila Pastore   
-**GitHub:** lucilapastore
-**Discord:** lucilajuliana 
-**Devfolio Username:** lucilajuliana
-**Role:** Technical PM  
+- **Name:** Lucila Pastore   
+- **GitHub:** lucilapastore
+- **Discord:** lucilajuliana 
+- **Devfolio Username:** lucilajuliana
+- **Role:** Technical PM  
 
 ## 🛠 Technical Approach
 ### Components
@@ -73,48 +73,36 @@ Moodle Web3 and the ZK Developer Program bring together the best of traditional 
 - ZK Circuits: ❌
 - Machine Learning (ML): ❌
 
+#### Moodle Web3 Components
+- Frontend & Backend: Full Moodle LMS with Ethereum wallet integration for seamless blockchain interactions.
+- Middleware: Event-driven server connecting Moodle with Push Protocol to capture and trigger notifications.
+- Ethereum Wallet Integration: Web3 logins, NFT certificates, POAPs, and blockchain-backed credentials.
+  
+#### ZK Developer Program Components
+- Program Structure: A multi-tiered educational bootcamp, starting with foundational ZK knowledge and progressing to hands-on projects and mentorship.
+- Technologies: Circom, Rust (Halo2), Cairo, Noir, and other PSE tools.
+- Community Contributions: Repositories, Good First Issues, and documentation to foster practical applications of PSE projects.
+- Core Components: Cryptography fundamentals, open-source development, applied privacy technologies, and community-driven projects.
+
 ## 🗺 High-Level Outline
-
-### ZK Developer Program Components
-- Program Content: Covers ZKPs, focusing on ZK-SNARKs and ZK-STARKs using Circom and Halo2.
-- Community Contributions: “Good First Issues” and documentation projects for PSE projects.
-- Mentor-Led Structure: Open to the LATAM region with progressive layers, personalized office hours, and access to PSE repositories.
-
-### Moodle Components
-- Custom Moodle LMS: Manages courses, students, and data within a decentralized framework.
-- Moodle Database: Stores user, course, and event information, with modifications to support web3 functionalities.
-
-### Middleware Web Server
-- Event-Driven Middleware: Links Moodle with Push Protocol to capture events (e.g., enrollments, course completions) and trigger notifications.
-- Push Protocol Integration: Enables real-time notifications for new content, deadlines, and updates, engaging students through blockchain-enabled messaging.
-
-### Ethereum Wallet Integration
-- Web3 Login: Allows students to log in using their Ethereum wallets, improving security and introducing blockchain credentials.
-- NFT Certifications & POAPs: Students receive NFTs as proof of course completions, creating verifiable, tamper-proof digital credentials.
-- Smart Contract for Certifications: Deploys an ERC721 smart contract, issuing unique NFTs as certifications, accessible within students' Ethereum wallets.
-
-<img width="405" alt="image" src="https://github.com/user-attachments/assets/a9048b92-1e4f-4408-a8d1-4c865a4f5e3b">
-
-
-## 🌐 Web3 Integration Benefits
-Moodle Web3 leverages blockchain technology to enhance educational accessibility, engagement, and credential security. This integration exemplifies the tangible benefits of blockchain in real-world scenarios.
-
-### Key Benefits:
-- Increased Engagement: Real-time notifications through Push Protocol keep students updated, fostering higher engagement and retention.
-- Decentralized, Secure Access: Wallet-based logins enhance security while familiarizing users with blockchain-based identity management.
-- Verifiable Credentials: NFT-based certifications offer students an authenticated, tamper-proof record of their achievements.
-
-## 🌟 Transforming Education with Web3
-By integrating web3 elements like wallet logins, NFT certifications, and decentralized notifications, Moodle Web3 empowers students and educators to explore blockchain technology in a practical setting, promoting understanding and widespread adoption.
+### Web3 and ZK Technology Benefits
+- Educational Advancement: Bridging traditional education with Web3 tools, while promoting privacy-focused development skills.
+- Engagement & Retention: Real-time notifications and NFT credentials to increase student involvement.
+- Decentralized Access: Wallet-based logins for secure access and introduction to blockchain-based identity management.
+- Verifiable Achievements: NFT-based certifications provide authenticated, tamper-proof records.
+### Key Features
+- Web3 Notifications: Push Protocol integration for event-driven alerts within Moodle.
+- NFT Certificates: Issue course completion certificates as NFTs on the blockchain.
+- ZK Proof Learning: Hands-on experience with ZKP implementations, with resources and mentorship for developing practical projects.
  
 ## 🏆 Sponsors
 - Push Protocol ✅
 - PSE ✅
 
-## 🎯 Project Goals
+## 🎯 Goals and Vision
 - **Moodle Web3 Goals:** Build a decentralized educational platform that leverages blockchain to foster engagement and verifiability in online learning.
 - **ZK Developer Program Vision:** Scale LATAM’s contributions to privacy and cryptography through hands-on learning, access to mentorship, and a structured curriculum.
-- **Future Collaboration:** Partnerships are encouraged to expand Web3 and PET adoption in education, targeting both students and institutions.
+- **Future Collaboration:** Partnerships to expand Web3 and PET adoption in education, targeting both students and institutions.
 
 ## 📚 Lessons Learned
 - **Interoperability of Web2 & Web3:** Successfully bridging a traditional LMS with Web3 tools.
