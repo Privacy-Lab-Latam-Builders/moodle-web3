@@ -4,46 +4,36 @@ Moodle Web3 and the ZK Developer Program bring together the best of traditional 
 ## 👥 Team Information
 ### Project Members
 - **Name:** Alex Padilla (@padimaster)  
-- **GitHub:** [padimaster](https://github.com/padimaster)  
-- **Discord:** padimasterec  
-- **Role:** Fullstack Developer  
-- **Contributions:**
-  - Developed the API Middleware to connect Moodle with Push Protocol for event-based notifications (e.g., user enrollments, course completions).
-  - Created Smart Contract Factory to issue NFT certifications directly to students' Ethereum wallets.
-  - Integrated Push Protocol with automated group creation and real-time notifications per course.
-  - Configured a scalable Docker-based server for deployment.
+  - **GitHub:** [padimaster](https://github.com/padimaster)  
+  - **Discord:** padimasterec  
+  - **Role:** Fullstack Developer  
 
 - **Name:** Paul Rodas  
-- **GitHub:** [0xarcano](https://github.com/0xarcano)  
-- **Discord:** 0xarcano  
-- **Role:** Senior Developer / DevOps  
-- **Contributions:**
-  - Developed a Moodle PHP plugin for Push Protocol, enabling event-driven notifications for actions like course enrollments, completions, and quiz submissions.
-  - Set up Docker configurations for streamlined Moodle deployment.
+  - **GitHub:** [0xarcano](https://github.com/0xarcano)  
+  - **Discord:** 0xarcano  
+  - **Role:** Senior Developer / DevOps  
 
 - **Name:** Carlos Jimenez  
-- **GitHub:** [cijimenez](https://github.com/cijimenez)  
-- **Discord:** carlos_israelj  
-- **Role:** Developer  
-- **Contributions:**
-  - Integrated Moodle with MetaMask for secure Web3 Login and user creation with wallet connections in Moodle’s database.
-
+  - **GitHub:** [cijimenez](https://github.com/cijimenez)  
+  - **Discord:** carlos_israelj  
+  - **Role:** Developer  
+  
 - **Name:**  Nathalia Barreiros
-- **GitHub:** NathaliaBarreiros  
-- **Discord:** nathbarreiros   
-- **Role:** Developer - Instructor
+  - **GitHub:** NathaliaBarreiros  
+  - **Discord:** nathbarreiros   
+  - **Role:** Developer - Instructor
 
 - **Name:** Daniel Arroyo  
-- **GitHub:**  daniel0ar
-- **Discord:** daniel0ar 
-- **Devfolio Username:** 
-- **Role:** Smart Contract and FE developer 
+  - **GitHub:**  daniel0ar
+  - **Discord:** daniel0ar 
+  - **Devfolio Username:** 
+  - **Role:** Smart Contract and FE developer 
 
 - **Name:** Lucila Pastore   
-- **GitHub:** lucilapastore
-- **Discord:** lucilajuliana 
-- **Devfolio Username:** lucilajuliana
-- **Role:** Technical PM  
+  - **GitHub:** lucilapastore
+  - **Discord:** lucilajuliana 
+  - **Devfolio Username:** lucilajuliana
+  - **Role:** Technical PM  
 
 ## 🛠 Technical Approach
 ### Components
