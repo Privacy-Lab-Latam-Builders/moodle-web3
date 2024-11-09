@@ -1,8 +1,5 @@
 # Moodle Web3 + ZK Developer Program
-
-Moodle Web3 integrates the popular Moodle LMS with Web3 tools, creating a decentralized educational platform that enables secure digital asset management, NFT certifications, and blockchain notifications. This system brings education into the decentralized era, fostering blockchain adoption through interactive and real-world educational applications.
-
-The ZK Developer Program is an online bootcamp aiming to train Latin American developers in Zero-Knowledge (ZK) technologies, expanding the region’s contributions to open-source projects within the cryptography space. This program builds upon insights from the LATAM PSE Core Program to deliver structured learning and practical development in ZK technologies.
+Moodle Web3 and the ZK Developer Program bring together the best of traditional learning management systems with cutting-edge Web3 technology and cryptographic education. This powerful integration aims to drive adoption of decentralized tools within education and provides a foundational path for developers to build on privacy-enhancing technologies (PETs) across Latin America.
 
 ## 📋 Table of Contents
 - [Moodle Web3 + ZK Developer Program](#moodle-web3)
