@@ -115,16 +115,14 @@ By integrating web3 elements like wallet logins, NFT certifications, and decentr
 - PSE ✅
 
 ## 🎯 Project Goals
-- **Objective:** Develop a comprehensive plugin and integration suite connecting Moodle LMS with blockchain tools to offer decentralized identity and credentialing.
-- **Functionality Expansion:** Integrate real-time, blockchain-based notifications for a modernized learning experience.
-- **Long-Term Vision:** Expand Moodle Web3 into an educational tool that demonstrates the potential of web3, encouraging adoption by educational institutions seeking enhanced transparency and verifiability.
-
-**Collaboration Opportunities:** Support for development, feedback, or sponsorship is encouraged to drive project growth and foster partnerships.
+- **Moodle Web3 Goals:** Build a decentralized educational platform that leverages blockchain to foster engagement and verifiability in online learning.
+- **ZK Developer Program Vision:** Scale LATAM’s contributions to privacy and cryptography through hands-on learning, access to mentorship, and a structured curriculum.
+- **Future Collaboration:** Partnerships are encouraged to expand Web3 and PET adoption in education, targeting both students and institutions.
 
 ## 📚 Lessons Learned
-- **Best Practices:** Include reusable code patterns to aid other developers in similar projects.
-- **Integration**: Web3 Tools integrations with Web2 Robust platforms
-- **Notable Code Snippets:** Share examples to showcase key insights for building decentralized applications in educational contexts.
+- **Interoperability of Web2 & Web3:** Successfully bridging a traditional LMS with Web3 tools.
+- **Importance of Reusable Code:** Maintaining scalable, community-friendly codebases for Moodle Web3 and ZK educational programs.
+- **User Experience in Decentralization:** Balancing the technical complexities of Web3 and privacy technologies with an accessible user experience.
 
 ## 🔗 Project Links
 - [ZKLP Final Submission](https://www.canva.com/design/DAGVyfW9XEE/Cn8ak01eYwPkuH-CK6YZVA/edit?utm_content=DAGVyfW9XEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
