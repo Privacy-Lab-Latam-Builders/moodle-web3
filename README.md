@@ -1,26 +1,6 @@
 # Moodle Web3 + ZK Developer Program
 Moodle Web3 and the ZK Developer Program bring together the best of traditional learning management systems with cutting-edge Web3 technology and cryptographic education. This powerful integration aims to drive adoption of decentralized tools within education and provides a foundational path for developers to build on privacy-enhancing technologies (PETs) across Latin America.
 
-## 📋 Table of Contents
-- [Moodle Web3 + ZK Developer Program](#moodle-web3)
-  - [📋 Table of Contents](#-table-of-contents)
-  - [👥 Team Information](#-team-information)
-    - [Project Members](#project-members)
-  - [🛠 Technical Approach](#-technical-approach)
-    - [Components](#components)
-  - [🗺 High-Level Outline](#-high-level-outline)
-    - [Moodle Components](#moodle-components)
-    - [Middleware Web Server](#middleware-web-server)
-    - [Ethereum Wallet Integration](#ethereum-wallet-integration)
-  - [🌐 Web3 Integration Benefits](#-web3-integration-benefits)
-    - [Key Benefits:](#key-benefits)
-  - [🌟 Transforming Education with Web3](#-transforming-education-with-web3)
-  - [🏆 Sponsors](#-sponsors)
-  - [🎯 Project Goals](#-project-goals)
-  - [📚 Lessons Learned](#-lessons-learned)
-  - [🔗 Project Links](#-project-links)
-  - [🎥 Video Demo](#-video-demo)
-
 ## 👥 Team Information
 ### Project Members
 - **Name:** Alex Padilla (@padimaster)  
