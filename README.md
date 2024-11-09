@@ -95,10 +95,6 @@ Moodle Web3 and the ZK Developer Program bring together the best of traditional 
 - NFT Certificates: Issue course completion certificates as NFTs on the blockchain.
 - ZK Proof Learning: Hands-on experience with ZKP implementations, with resources and mentorship for developing practical projects.
  
-## 🏆 Sponsors
-- Push Protocol ✅
-- PSE ✅
-
 ## 🎯 Goals and Vision
 - **Moodle Web3 Goals:** Build a decentralized educational platform that leverages blockchain to foster engagement and verifiability in online learning.
 - **ZK Developer Program Vision:** Scale LATAM’s contributions to privacy and cryptography through hands-on learning, access to mentorship, and a structured curriculum.
